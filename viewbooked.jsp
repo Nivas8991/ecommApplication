@@ -85,7 +85,6 @@ if(f=="")
 			 <td><font color="green"><%=rs.getString(4)%></font></td>
 			 <td><font color="green"><%=rs.getString(5)%></font></td>
 			  <td><font color="green"><%=rs.getString(6)%></font></td>
-		
 			
 			 </tr>
 			 <%}
