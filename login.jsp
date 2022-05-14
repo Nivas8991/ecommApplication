@@ -73,11 +73,7 @@ if(f=="")
 	<tr><td  align="right" ><font color="white">Role&nbsp;&nbsp;&nbsp;:</td>
     <td ><select name="role"><option value="0">--Select--</option><option value="admin">Admin</option><option value="user">User</option></select></td></tr><tr ><td height="10"></td>
     </tr>
-	
-
- 
-     
-     
+	    
 	   
      <tr colspan="2" ><td align="center"><input type="submit" value="Login"></td><td><center><input TYPE="RESET" VALUE="Reset"></center></td></tr>
 </table>
